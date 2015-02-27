@@ -16,12 +16,6 @@ public class Prize {
         treasures   = tesoros;
         levels      = niveles;
     }
-    int getTreasures(){
-        return treasures;
-    }
-    int getLevels(){
-        return levels;
-    }
     
     
     
